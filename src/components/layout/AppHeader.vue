@@ -4,7 +4,6 @@
       <div class="logo-section">
         <router-link to="/" class="logo-link">
           <div class="logo">
-            <span class="logo-icon">🏠</span>
             <div class="logo-text">
               <span class="logo-title">GEORGIA</span>
               <span class="logo-subtitle">FORECLOSURE</span>
@@ -36,13 +35,6 @@
           Contact
         </router-link>
       </nav>
-
-      <div class="header-actions">
-        <div class="professional-badge">
-          <span class="badge-text">Professional Plan</span>
-          <span class="badge-icon">PP</span>
-        </div>
-      </div>
     </div>
   </header>
 </template>
